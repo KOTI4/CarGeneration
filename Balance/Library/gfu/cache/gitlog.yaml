@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-06-07T18:33:26.430+05:00
+  initializedAtString: 2019-06-07T18:21:28.037+05:00
+  log:
+  - commitID: 3bafbfe217319bdb9d7bff3b7e7df179fb3d2494
+    mergeA: 
+    mergeB: 
+    authorName: KOTI4
+    authorEmail: 44062312+KOTI4@users.noreply.github.com
+    commitEmail: 44062312+KOTI4@users.noreply.github.com
+    commitName: KOTI4
+    summary: deadcode
+    description: 
+    timeString: 2019-02-22T09:07:49.000+05:00
+    commitTimeString: 2019-02-22T09:07:49.000+05:00
+    changes:
+    - path: Desktop\Lab\Main.cpp
+      fullPath: C:\Users\Konstantin\Desktop\Lab\Main.cpp
+      projectPath: ..\..\..\Desktop\Lab\Main.cpp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\Lab\UnlimitedFunct.cpp
+      fullPath: C:\Users\Konstantin\Desktop\Lab\UnlimitedFunct.cpp
+      projectPath: ..\..\..\Desktop\Lab\UnlimitedFunct.cpp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\Lab\UnlimitedFunct.h
+      fullPath: C:\Users\Konstantin\Desktop\Lab\UnlimitedFunct.h
+      projectPath: ..\..\..\Desktop\Lab\UnlimitedFunct.h
+      originalPath: 
+      status: 4
+      staged: 0
